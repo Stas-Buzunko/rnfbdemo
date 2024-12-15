@@ -11,7 +11,7 @@ So the way to run this on Windows is to make Windows behave more Unix-style.
 
 1. Install "WSL" - the Windows Subsystem For Linux (Ubuntu 20LTS flavor)
 1. Open your Ubuntu WSL shell and install the [Node Version Manager / "nvm"](https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating)
-  1. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash`
+1. `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.0/install.sh | bash`
 
 ### macOS / Linux (developed on Ubuntu 20) / Windows WSL steps
 
